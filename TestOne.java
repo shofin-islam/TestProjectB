@@ -6,6 +6,10 @@ public class TestOne {
 		
 		for (int i = 0; i < 10; i++) {
 			System.out.println("Hello World..Test"+i);
+		}
+		
+		for (int i = 0; i < 10; i++) {
+			System.out.println("Hello World..Test"+i);
 		}	
 
 	}
